@@ -1,0 +1,16 @@
+[
+{
+  "modid": "xp_matters",
+  "name": "XP Matters",
+  "description": "Increase player's HP a bit for every XP level gained.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lime"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
